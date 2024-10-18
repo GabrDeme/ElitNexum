@@ -61,18 +61,12 @@ The **Elit Nexum** platform provides a comprehensive solution by offering a secu
 ---
 
 ### Group Members
-<div style="display: inline_block">
-  <div><br>
-    - Gabriel Coral
-    - Gabriel Demétrio
-    - Paulo Oliveira
-  </div>
-  <div><br>
-    - Pedro H. Alves
-    - Richard Passarelli
-    - Vinícius Vieira
-  </div>
-</div>
+- <a href="https://www.linkedin.com/in/gabriel-russo-173ba3275/" target="_blank">Gabriel Coral</a>
+- <a href="https://www.linkedin.com/in/gabriel-dem%C3%A9trio-a06820275/" target="_blank">Gabriel Demétrio</a>
+- <a href="https://www.linkedin.com/in/paulohgo/" target="_blank">Paulo Oliveira</a>
+- <a href="https://www.linkedin.com/in/pedro-henrique-alves-de-freitas-287b85276/" target="_blank">Pedro H. Alves</a>
+- <a href="https://www.linkedin.com/in/richardrichk/" target="_blank">Richard Passarelli</a>
+- <a href="https://www.linkedin.com/in/vinicius-andrade-981a9626b/" target="_blank">Vinícius Vieira</a>
 
 ---
 
@@ -102,82 +96,82 @@ The frontend communicates with the backend through API calls to handle user inte
 
 ## Login Flow
 
-### Registration Screen
+**Registration Screen**
 
 <img alt="" src="/Assets/TelaCadastro.png">
 
-### Email Varification
+**Email Varification**
 
 <img alt="" src="/Assets/Email.png">
 
-### User Validation Screen
+**User Validation Screen**
 
 <img alt="" src="/Assets/TelaValidacaoUsuario.png">
 
-### Login Screen
+**Login Screen**
 
 <img alt="" src="/Assets/TelaLogin.png">
 
 ## Posts Flow
 
-### Home Screen
+**Home Screen**
 
 <img alt="" src="/Assets/TelaHome.png">
 
-### Feed Screen
+**Feed Screen**
 
 <img alt="" src="/Assets/TelaFeed.png">
 
-### Posting Screen
+**Posting Screen**
 
 <img alt="" src="/Assets/TelaPostagem.png">
 
-### Search Screen
+**Search Screen**
 
 <img alt="" src="/Assets/TelaPesquisa.png">
 
-### Opened Post Screen
+**Opened Post Screen**
 
 <img alt="" src="/Assets/PostagemAberta.png">
 
-### Notifications Screen
+**Notifications Screen**
 
 <img alt="" src="/Assets/TelaNotificacao.png">
 
 ## User Flow
 
-### User Screen
+**User Screen**
 
 <img alt="" src="/Assets/telaUsuario.png">
 
-### Bio Screen
+**Bio Screen**
 
 <img alt="" src="/Assets/TelaSobre.png">
 
-### Saved Posts Screen
+**Saved Posts Screen**
 
 <img alt="" src="/Assets/TelaSalvos.png">
 
-### Statistics Screen
+**Statistics Screen**
 
 <img alt="" src="/Assets/TelaEstatisticas.png">
 
 ## Edition Flow
 
-### User Edition Screen
+**User Edition Screen**
 
 <img alt="" src="/Assets/TelaEdicaoUsuario.png">
 
-### Bio Edition Screen
+**Bio Edition Screen**
 
 <img alt="" src="/Assets/TelaEdicaoBio.png">
 
-### Password Edition Screen
+**Password Edition Screen**
 
 <img alt="" src="/Assets/TelaEdicaoSenha.png">
 
 ## Chat
 
-### Chat Screen
+**Chat Screen**
 
 <img alt="" src="/Assets/TelaChat.png">
