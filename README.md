@@ -83,3 +83,60 @@ The frontend communicates with the backend through API calls to handle user inte
 ---
 
 ## Project Flow
+
+### Registration Screen
+
+<img alt="" src="/Assets/TelaCadastro.png">
+
+### Email Varification
+
+<img alt="" src="/Assets/Email.png">
+
+### User Validation Screen
+
+<img alt="" src="/Assets/TelaValidacaoUsuario.png">
+
+### Login Screen
+
+<img alt="" src="/Assets/TelaLogin.png">
+
+### Home Screen
+
+<img alt="" src="/Assets/TelaHome.png">
+
+### Feed Screen
+
+<img alt="" src="/Assets/TelaFeed.png">
+
+### Posting Screen
+
+<img alt="" src="/Assets/TelaPostagem.png">
+
+### Search Screen
+
+<img alt="" src="/Assets/TelaPesquisa.png">
+
+### Opened Post Screen
+
+<img alt="" src="/Assets/.png">
+
+### Notifications Screen
+
+<img alt="" src="/Assets/TelaNotificacao.png">
+
+### User Screen
+
+<img alt="" src="/Assets/TelaUsuario.png">
+
+### Bio Screen
+
+<img alt="" src="/Assets/TelaSobre.png">
+
+### Saved Posts Screen
+
+<img alt="" src="/Assets/TelaSalvos.png">
+
+### Statistics Screen
+
+<img alt="" src="/Assets/TelaEstatisticas.png">
+
