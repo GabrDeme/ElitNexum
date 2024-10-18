@@ -61,12 +61,18 @@ The **Elit Nexum** platform provides a comprehensive solution by offering a secu
 ---
 
 ### Group Members
-- Gabriel Coral
-- Gabriel Demétrio
-- Paulo Oliveira
-- Pedro H. Alves
-- Richard Passarelli
-- Vinícius Vieira
+<div style="display: inline_block">
+  <div><br>
+    - Gabriel Coral
+    - Gabriel Demétrio
+    - Paulo Oliveira
+  </div>
+  <div><br>
+    - Pedro H. Alves
+    - Richard Passarelli
+    - Vinícius Vieira
+  </div>
+</div>
 
 ---
 
