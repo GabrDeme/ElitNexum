@@ -60,6 +60,16 @@ The **Elit Nexum** platform provides a comprehensive solution by offering a secu
 
 ---
 
+### Group Members
+- Gabriel Coral
+- Gabriel Demétrio
+- Paulo Oliveira
+- Pedro H. Alves
+- Richard Passarelli
+- Vinícius Vieira
+- 
+---
+
 ### Architecture Overview
 
 The architecture of **Elit Nexum** is divided into two main layers:
