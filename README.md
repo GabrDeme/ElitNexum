@@ -82,7 +82,9 @@ The frontend communicates with the backend through API calls to handle user inte
 
 ---
 
-## Project Flow
+# Project Flow
+
+## Login Flow
 
 ### Registration Screen
 
@@ -99,6 +101,8 @@ The frontend communicates with the backend through API calls to handle user inte
 ### Login Screen
 
 <img alt="" src="/Assets/TelaLogin.png">
+
+## Posts Flow
 
 ### Home Screen
 
@@ -118,15 +122,17 @@ The frontend communicates with the backend through API calls to handle user inte
 
 ### Opened Post Screen
 
-<img alt="" src="/Assets/.png">
+<img alt="" src="/Assets/PostagemAberta.png">
 
 ### Notifications Screen
 
 <img alt="" src="/Assets/TelaNotificacao.png">
 
+## User Flow
+
 ### User Screen
 
-<img alt="" src="/Assets/TelaUsuario.png">
+<img alt="" src="/Assets/telaUsuario.png">
 
 ### Bio Screen
 
@@ -140,3 +146,22 @@ The frontend communicates with the backend through API calls to handle user inte
 
 <img alt="" src="/Assets/TelaEstatisticas.png">
 
+## Edition Flow
+
+### User Edition Screen
+
+<img alt="" src="/Assets/TelaEdicaoUsuario.png">
+
+### Bio Edition Screen
+
+<img alt="" src="/Assets/TelaEdicaoBio.png">
+
+### Password Edition Screen
+
+<img alt="" src="/Assets/TelaEdicaoSenha.png">
+
+## Chat
+
+### Chat Screen
+
+<img alt="" src="/Assets/TelaChat.png">
