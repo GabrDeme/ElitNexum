@@ -67,7 +67,7 @@ The **Elit Nexum** platform provides a comprehensive solution by offering a secu
 - Pedro H. Alves
 - Richard Passarelli
 - Vinícius Vieira
-- 
+
 ---
 
 ### Architecture Overview
