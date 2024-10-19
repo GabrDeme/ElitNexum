@@ -21,42 +21,42 @@ The **Elit Nexum** platform provides a comprehensive solution by offering a secu
 
 ### Functional Requirements
 
-- <span style="color:#3498db;">**Login**</span>: Secure user authentication using bcrypt.
-- <span style="color:#2ecc71;">**User Registration**</span>: Register users with encrypted credentials.
-- <span style="color:#e74c3c;">**Post Listings**</span>: Display posts related to the user's selected stacks.
-- <span style="color:#f39c12;">**Create & Edit Posts**</span>: Users can publish and modify content.
-- <span style="color:#9b59b6;">**Search**</span>: Search functionality for posts, users, and topics.
-- <span style="color:#e67e22;">**Like & Comment**</span>: Interact with others by liking and commenting on posts.
-- <span style="color:#1abc9c;">**Delete Posts**</span>: Allow users to delete their posts.
-- <span style="color:#d35400;">**Stacks Selection**</span>: Users can select relevant development stacks for their profile.
-- <span style="color:#34495e;">**Profiles Listing**</span>: Filter user profiles by the stacks they’ve selected.
-- <span style="color:#e84393;">**Saved Posts**</span>: Save posts for future reading.
-- <span style="color:#2c3e50;">**Chat**</span>: Users can communicate via private messages.
-- <span style="color:#2980b9;">**Logout**</span>: Securely log users out of the platform.
+- **Login**: Secure user authentication using bcrypt.
+- **User Registration**: Register users with encrypted credentials.
+- **Post Listings**: Display posts related to the user's selected stacks.
+- **Create & Edit Posts**: Users can publish and modify content.
+- **Search**: Search functionality for posts, users, and topics.
+- **Like & Comment**: Interact with others by liking and commenting on posts.
+- **Delete Posts**: Allow users to delete their posts.
+- **Stacks Selection**: Users can select relevant development stacks for their profile.
+- **Profiles Listing**: Filter user profiles by the stacks they’ve selected.
+- **Saved Posts**: Save posts for future reading.
+- **Chat**: Users can communicate via private messages.
+- **Logout**: Securely log users out of the platform.
 
 ### Non-Functional Requirements
 
-- <span style="color:#9b59b6;">**Performance**</span>: Ensure response times of less than 3 seconds for operations.
-- <span style="color:#e67e22;">**Availability**</span>: Provide 24/7 platform access with minimal interruptions.
-- <span style="color:#2ecc71;">**Security**</span>: Ensure that only authenticated users access features.
-- <span style="color:#3498db;">**Usability**</span>: Provide a simple, intuitive user interface.
-- <span style="color:#e74c3c;">**Scalability**</span>: Support new users and features without performance loss.
-- <span style="color:#34495e;">**Maintainability**</span>: Ensure modular, well-documented code for easy maintenance.
-- <span style="color:#f39c12;">**Compatibility**</span>: Ensure cross-browser and device compatibility with a responsive design.
+- **Performance**: Ensure response times of less than 3 seconds for operations.
+- **Availability**: Provide 24/7 platform access with minimal interruptions.
+- **Security**: Ensure that only authenticated users access features.
+- **Usability**: Provide a simple, intuitive user interface.
+- **Scalability**: Support new users and features without performance loss.
+- **Maintainability**: Ensure modular, well-documented code for easy maintenance.
+- **Compatibility**: Ensure cross-browser and device compatibility with a responsive design.
 
 ### Business Rules
 
-- <span style="color:#9b59b6;">**User Authentication**</span>: Use bcrypt for secure login.
-- <span style="color:#e67e22;">**Duplicate Registration**</span>: Prevent registration if the email is already in use.
-- <span style="color:#2ecc71;">**Post Validation**</span>: Disallow incomplete or incorrect posts.
-- <span style="color:#3498db;">**Edit Logging**</span>: Track and log the user and timestamp for edited posts.
-- <span style="color:#e74c3c;">**Stack Filtering**</span>: Display posts and profiles based on user-selected stacks.
-- <span style="color:#34495e;">**Like Limit**</span>: Users cannot like the same post more than once.
+- **User Authentication**: Use bcrypt for secure login.
+- **Duplicate Registration**: Prevent registration if the email is already in use.
+- **Post Validation**: Disallow incomplete or incorrect posts.
+- **Edit Logging**: Track and log the user and timestamp for edited posts.
+- **Stack Filtering**: Display posts and profiles based on user-selected stacks.
+- **Like Limit**: Users cannot like the same post more than once.
 
 ### Constraints
 
-- <span style="color:#2980b9;">**Operating System**</span>: Minimum requirement is Windows 10.
-- <span style="color:#f39c12;">**Storage**</span>: The system must provide flexible storage options for scalability.
+- **Operating System**: Minimum requirement is Windows 10.
+- **Storage**: The system must provide flexible storage options for scalability.
 
 ---
 
