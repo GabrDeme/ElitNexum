@@ -175,3 +175,9 @@ The frontend communicates with the backend through API calls to handle user inte
 **Chat Screen**
 
 <img alt="" src="/Assets/TelaChat.png">
+
+---
+
+<div height="30">
+  <a href="https://www.linkedin.com/in/gabriel-dem%C3%A9trio-a06820275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
